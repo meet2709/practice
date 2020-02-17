@@ -18,7 +18,7 @@ public class JavaApplication92 {
         // TODO code application logic here
         System.out.println("hello world! ");
         System.out.println("my name is meet");
-        system.out.println("my name is meet");
+        System.out.println("my name is meet");
     }
     
 }
